@@ -7,7 +7,7 @@ import org.springframework.beans.factory.config.ConfigurableListableBeanFactory;
 import org.springframework.stereotype.Component;
 
 /**
- * @program: spring-framework-5.0.2.RELEASE-中文注释版
+ * @program:
  * @description: ${description}
  * @author: liyi
  * @create: 2020-02-10 14:56
